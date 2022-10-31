@@ -1,0 +1,43 @@
+
+body {
+    margin: 0;
+}
+
+body > header > h1 {
+    padding-left: 10px;
+}
+
+body > main > article {
+    width: 70%;
+    margin: auto;
+}
+
+body > header {
+    background: dodgerblue;
+    color: white;
+    padding: 20px;
+}
+
+header > nav > ul {
+    list-style: none;
+}
+
+header > nav > ul > li > a {
+    color: white;
+}
+
+footer {
+    background: dodgerblue;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+#logo {
+    margin-top: 0;
+}
+
+#comments-section {
+    width: 70%;
+    margin: auto;
+}
